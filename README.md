@@ -1,4 +1,8 @@
 # InformtionsSecurityMethodsAndTools
+## by Ivanhahanov
+
+Набор практических работ по информационной безопасности.
+Задание и описания будут на сайте www.ternogon.net
 
 ### Список заданий
 1. [Phishing](https://github.com/Ivanhahanov/InformtionsSecurityMethodsAndTools/blob/main/Phishing/README.md)
