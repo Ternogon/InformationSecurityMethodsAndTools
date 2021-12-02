@@ -1,5 +1,5 @@
-# InformtionsSecurityMethodsAndTools
-## by Ivanhahanov
+# Cybersec Methods and Tools
+## InformtionsSecurityMethodsAndTools by Ivanhahanov
 
 Набор практических работ по информационной безопасности.
 Задание и описания будут на сайте www.ternogon.net
