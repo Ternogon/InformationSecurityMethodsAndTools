@@ -1,9 +1,3 @@
-# Cybersec Methods and Tools
-  Forked by InformtionsSecurityMethodsAndTools by Ivanhahanov
-
-Набор практических работ по информационной безопасности.
-//
-
 # Методы и средства защиты информаци
 
 ## Практика
